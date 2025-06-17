@@ -26,6 +26,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 -->
-- ⚡ Fun fact: I have set up an IoT weather collection server at home running Node-Red on a Raspberry Pi 3B+ using ESP8266's with DHT22, DHT11, BMP180 and a Raspberry Pi Pico W using Micro Python, I am also collecting infomtaion from my WeatherXM LoRa weather station [https://explorer.weatherxm.com/stations/windy-ivory-uv] via the web and displaying the information on dashboards also using InfluxDB and Chronograf to store the data locally every minuite and display this on another dashboard. It also sends the data to ThingSpeakevery 5 minuites. It also receives sunset and sunrise triggers which turn on and off the security lights via 433Mhz radio.
+- ⚡ Fun fact: I have set up an IoT weather collection server at home running Node-Red on a Raspberry Pi 3B+ using ESP8266's with DHT22, DHT11, BMP180 and a Raspberry Pi Pico W using Micro Python, I am also collecting infomtaion from my WeatherXM LoRa weather station [here](https://explorer.weatherxm.com/stations/windy-ivory-uv) via the web and displaying the information on dashboards also using InfluxDB and Chronograf to store the data locally every minuite and display this on another dashboard. It also sends the data to ThingSpeakevery 5 minuites. It also receives sunset and sunrise triggers which turn on and off the security lights via 433Mhz radio. (I am also able to trigger this remotely along with the office lights)
 
 
