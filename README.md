@@ -1,15 +1,20 @@
-## Hi there 👋
+<h1 align="center">Hi there! 👋 I'm Paul Imison</h1>
 
-My name is Paul Imison, I have developed commercial software from vehicle spare parts stock through to hotel systems including front office billing, bar stock control, accounting packages (debtors, creditors, cashbook, general ledgers and payroll) and reservations which ran commercially for over 10 years in 14+ hotels in Mombasa, Kenya.
+<p align="center">
+  💻 Software Developer &nbsp; | &nbsp; 🛠️ Vehicle Technician (Land Rover Specialist) &nbsp; | &nbsp; 🌍 Based in Nairobi, Kenya
+</p>
 
-Currenty a vehicle technician specialising in the Land Rover Marque (preference classic vehicles)
+---
 
-<!--
-**PaulImison/PaulImison** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 About Me
 
-Here are some ideas to get you started:
--->
-### Current Skill Set:
+I'm a multidisciplinary professional with over 10 years of experience developing and deploying **commercial software systems** — from **automotive parts inventory** to **full-fledged hotel management systems**. My work has powered operations in **14+ hotels** across **Mombasa, Kenya**.
+
+Currently, I’ve shifted gears — quite literally — into the world of **automotive technology**, focusing on **classic Land Rover** vehicles, while still exploring and building with modern software tools.
+
+---
+
+### 🧠 Skill Set
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -17,15 +22,62 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-- 🔭 I’m currently working in the MasterCraft program by SpaceYaTech doing Django Rest Framework on the Back End.
-- 🌱 I’m currently learning Git, Django Rest Framework, CI/CD and others for the tasks.
+- 🔭 Currently working in the **MasterCraft Program** by [SpaceYaTech](https://spaceyatech.com), building APIs using **Django Rest Framework**.
+- 🌱 Actively learning **CI/CD**, **Git**, **DRF**, and best practices in backend architecture.
+- 🧰 Versatile across hardware and software — from low-level **Arduino + ESP8266** programming to **full-stack Python-based apps**.
+
+---
+
+### 🌦️ Fun Fact: My Home IoT Weather Hub
+
+I run a self-built, end-to-end IoT system to monitor local weather conditions:
+
+- 🧠 Built with **Node-RED** on a **Raspberry Pi 3B+**
+- 📡 Sensors: DHT22, DHT11, BMP180 via **ESP8266s** & **RPi Pico W (MicroPython)**
+- 🛰️ External feed from **WeatherXM**: [My Station](https://explorer.weatherxm.com/stations/windy-ivory-uv)
+- 📊 Dashboards powered by **InfluxDB**, **Chronograf**, and **ThingSpeak**
+- 🔁 Includes sunrise/sunset automation via **433MHz RF** to manage lighting
+- 📱 Remote control for office and security lighting included
+
+---
+
+### 🛠️ Tools & Technologies in Progress
+
+[![Django Rest Framework](https://img.shields.io/badge/Django_Rest_Framework-in_progress-darkgreen?logo=django)](https://www.djangoproject.com/)  
+[![GitHub](https://img.shields.io/badge/GitHub-in_progress-darkgreen?logo=github)](https://github.com)  
+[![VSCodium](https://img.shields.io/badge/VSCodium-in_progress-darkgreen?logo=vscodium)](https://vscodium.com/)
+
+---
+
+### 📫 Let's Connect
+
+- 💬 Reach me on GitHub.
+- 🧠 Open to collaboration, especially on IoT, Django-based APIs, and smart automation projects.
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PaulImison&show_icons=true&theme=github_dark&count_private=true&hide=stars" alt="Paul's GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PaulImison&theme=github_dark" alt="GitHub Streak Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaulImison&layout=compact&theme=github_dark" alt="Top Languages" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=PaulImison.PaulImison&title=Visitors" alt="Visitor badge" />
+</p>
+
+
+<!-- GitHub special README notice -->
 <!--
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+**PaulImison/PaulImison** is a ✨ _special_ ✨ repository because its `README.md` appears on your GitHub profile.
 -->
-- ⚡ Fun fact: I have set up an IoT weather collection server at home running Node-Red on a Raspberry Pi 3B+ using ESP8266's with DHT22, DHT11, BMP180 and a Raspberry Pi Pico W using Micro Python, I am also collecting infomtaion from my WeatherXM LoRa weather station [here](https://explorer.weatherxm.com/stations/windy-ivory-uv) via the web and displaying the information on dashboards also using InfluxDB and Chronograf to store the data locally every minuite and display this on another dashboard. It also sends the data to ThingSpeakevery 5 minuites. It also receives sunset and sunrise triggers which turn on and off the security lights via 433Mhz radio. (I am also able to trigger this remotely along with the office lights)
-
-
